@@ -8,7 +8,7 @@ You can Visit My Webpage on : https://gitansh.me/Avatar-API/
 
 **Language:** HTML, CSS, JS.
 
-**Tools:** Sublime Text, VS-Code, CorelDraw.
+**IDE/Tools:** Sublime Text, VS-Code, Canva, CorelDraw.
 
 **Hosting:** Github.
 
