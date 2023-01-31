@@ -1,7 +1,7 @@
 # Avatar
 Generates an avatar by analysing the name of the user.
 
-You can Visit My Webpage on : https://gitansh.me/Avatar-API/
+You can Visit My Webpage on : https://gitansh.tech/Avatar-API/
 
 
 ## Tech Stack
